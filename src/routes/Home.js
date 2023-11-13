@@ -23,7 +23,7 @@ function Home() {
         title={movie.title} 
         summary = {movie.summary} 
         genres={movie.genres}/>
-      ))}    
+      ))}
     </div>
     )}
   </div>
