@@ -1,5 +1,5 @@
 function Detail() {
-    return <h1>Deetail</h1>
+    return <h1>Detail View</h1>
 }
 
 export default Detail;
