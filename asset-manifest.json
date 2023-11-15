@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/React_Movie_Service/static/js/main.e5442fba.js",
+    "index.html": "/React_Movie_Service/index.html",
+    "main.e5442fba.js.map": "/React_Movie_Service/static/js/main.e5442fba.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e5442fba.js"
+  ]
+}
